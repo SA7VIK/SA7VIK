@@ -4,7 +4,7 @@ INFORMATION TECHNOLOGY BRANCH  2020 - 2024
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/SA7V1K" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://twitter.com/SA7V1K" target="blank"><img align="center" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.iconpacks.net%2Ficons%2F2%2Ffree-twitter-logo-icon-2429-thumb.png&imgrefurl=https%3A%2F%2Fwww.iconpacks.net%2Ffree-icon%2Ftwitter-logo-2429.html&tbnid=B3ioK1CYmslkAM&vet=12ahUKEwj8q4-ggK36AhWTyKACHX7LAHEQMygBegUIARCMAQ..i&docid=v6CVn24c2UycbM&w=512&h=512&q=twitter%20icon%20.svg&client=safari&ved=2ahUKEwj8q4-ggK36AhWTyKACHX7LAHEQMygBegUIARCMAQ" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sa7vik/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/samtvik/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
