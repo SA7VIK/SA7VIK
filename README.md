@@ -13,6 +13,7 @@ INFORMATION TECHNOLOGY BRANCH  2020 - 2024
 - Android and PC games (playing only ;)
 - HTML/CSS
 - JavaScript
+- SQL
 - PHP
 - openCV
 
