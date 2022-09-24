@@ -28,7 +28,3 @@ INFORMATION TECHNOLOGY BRANCH  2020 - 2024
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SA7VIK&theme=dark)](https://git.io/streak-stats)
-
-
-
-https://img.shields.io/static/vl?label=<LABEL>Gmessage=<MESSAGE>&color=<COLOR>
