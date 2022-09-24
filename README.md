@@ -1,4 +1,6 @@
 ### Hi there 👋
+This enthusiast fellow is a Engineering student at JAALPUR ENGINEERING COLLEGE
+INFORMATION TECHNOLOGY BRANCH  2020 - 2024
 
 <!--
 **SA7VIK/SA7VIK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
