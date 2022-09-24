@@ -1,6 +1,5 @@
-### Hi there 👋
+### Namaste Mitron 👋
 This enthusiast fellow is a Engineering student at JAALPUR ENGINEERING COLLEGE
-
 INFORMATION TECHNOLOGY BRANCH  2020 - 2024
 
 ## SKILLS & INTERESTS
