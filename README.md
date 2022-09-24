@@ -1,6 +1,20 @@
 ### Hi there 👋
 This enthusiast fellow is a Engineering student at JAALPUR ENGINEERING COLLEGE
+
 INFORMATION TECHNOLOGY BRANCH  2020 - 2024
+
+## SKILLS & INTERESTS
+- C++
+- Python
+- Tensorflow and other useful libraries for ML
+- Machine Learning
+- Deep Learning
+- Anime
+- Android and PC games (playing only ;)
+- HTML/CSS
+- JavaScript
+- PHP
+- openCV
 
 
 <h3 align="left">Connect with me:</h3>
@@ -16,4 +30,4 @@ INFORMATION TECHNOLOGY BRANCH  2020 - 2024
 
 
 
-![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
+https://img.shields.io/static/vl?label=<LABEL>Gmessage=<MESSAGE>&color=<COLOR>
