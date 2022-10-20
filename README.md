@@ -1,5 +1,5 @@
 ### Namaste Mitron 👋
-This enthusiast fellow is a Engineering student at JAALPUR ENGINEERING COLLEGE
+This enthusiast fellow is a Engineering student at JABALPUR ENGINEERING COLLEGE
 
 INFORMATION TECHNOLOGY BRANCH  2020 - 2024
 
