@@ -14,7 +14,8 @@ INFORMATION TECHNOLOGY BRANCH  2020 - 2024
 - HTML/CSS
 - JavaScript
 - SQL
-- PHP
+- Django
+- Django-Rest-Framework
 - openCV
 
 
