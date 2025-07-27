@@ -58,7 +58,7 @@ I write about technical topics and share insights on Medium:
 
 ## Connect
 
-- **Portfolio:** [satviksingh.dev](https://sa7vik.in)
+- **Portfolio:** [sa7vik.in](https://sa7vik.in)
 - **LinkedIn:** [satviksingh](https://www.linkedin.com/in/sa7vik)
 - **Email:** satviksingh1000@gmail.com
 - **Resume:** [View Resume](https://drive.google.com/file/d/1gSwhAMhyevVlYe8QRe-DzlR3UCvpuFGV/view?usp=share_link)
