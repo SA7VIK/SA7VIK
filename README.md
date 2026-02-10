@@ -36,13 +36,6 @@ I architect surveillance radar systems with BLAS/MKL optimization for real-time 
 
 **[LLM Hallucination Detection Pipeline](https://llm-hallucination-detection.onrender.com)** - Advanced pipeline detecting hallucinations in LLM responses by analyzing log probabilities and confidence rates. Evaluates text authenticity by examining token-level confidence scores.
 
-## Achievements
-
-- **GATE Data Science and AI 2024** - Qualified in Data Science-Artificial Intelligence discipline
-- **Smart India Hackathon 2023** - National Finalist among 100,000+ participants
-- **Rajasthan IT Day Hackathon** - Certificate of achievement for innovative technology solution
-- **DRDO Research Excellence** - Contributing to next-generation radar systems with 30% improved efficiency
-
 ## Education
 
 **B.Tech in Information Technology** - Jabalpur Engineering College, 2024
